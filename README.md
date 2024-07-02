@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Red Teaming**
 
-<!-- - 📝 I regularly write articles on [https://medium.com/@sdarmwal17](https://medium.com/@sdarmwal17) -->
+- 📝 I write articles on [https://medium.com/@sdarmwal17](https://medium.com/@sdarmwal17) 
 
 - 📫 How to reach me **sdarmwal17@gmail.com**
 
-<!-- ### Blogs posts -->
+ ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
