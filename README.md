@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting Response Manipulation for Account Takeover](https://medium.com/@sdarmwal17/exploiting-response-manipulation-for-account-takeover-b19ce1494109?source=rss-81e70cef57ab------2)
+- [Response Manipulation for Account Takeover](https://medium.com/@sdarmwal17/exploiting-response-manipulation-for-account-takeover-b19ce1494109?source=rss-81e70cef57ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
