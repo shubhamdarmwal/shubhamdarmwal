@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham_darmwal" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_darmwal?logo=twitter&style=for-the-badge" alt="shubham_darmwal" /></a> </p>
 
-- 🌱 I’m currently learning **Red Teaming**
+- 🌱 I’m currently learning **Bash Scripting**
 
 - 📝 I write articles on [https://medium.com/@sdarmwal17](https://medium.com/@sdarmwal17) 
 
