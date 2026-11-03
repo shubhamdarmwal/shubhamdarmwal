@@ -1,38 +1,83 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh Darmwal</h1>
-<h3 align="center">A passionate security analyst from India</h3>
-<img align="right" alt="Cybersec" width="400" src="https://softflow.ca/wp-content/uploads/2022/11/1622971872473.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdarmwal&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdarmwal" /> </p>
+<h3 align="center">Security Analyst from India 🇮🇳 | SOC & Web Security | Learning MERN Stack 💻</h3>
 
-<p align="left"> <a href="https://twitter.com/shubham_darmwal" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_darmwal?logo=twitter&style=for-the-badge" alt="shubham_darmwal" /></a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhamsinghdarmwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@sdarmwal17"><img src="https://img.shields.io/badge/Medium-Read%20my%20blogs-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://twitter.com/shubham_darmwal"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
-- 🌱 I’m currently learning **Blue Teaming**
+---
 
-- 📝 I write articles on [https://medium.com/@sdarmwal17](https://medium.com/@sdarmwal17) 
+### 👨‍💻 About Me
 
-- 📫 How to reach me **sdarmwal17@gmail.com**
+- 🛡️ Security analyst with hands-on **SIEM (Wazuh)** and **web app security** practice
+- 💻 Currently learning the **MERN Stack**
+- 📝 I write security articles on [Medium](https://medium.com/@sdarmwal17)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/shubhamsinghdarmwal)
 
---- 
+---
 
-### Blogs posts
+### 🧰 Skills & Tools
+
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Projects
+
+#### 🔍 [wazuh-siem-homelab](https://github.com/shubhamdarmwal/wazuh-siem-homelab)
+Built a fully functional Security Operations home lab by deploying **Wazuh SIEM** on Ubuntu Server and connecting a Windows 10 endpoint as a monitored agent.
+- Simulated real-world attack techniques
+- Triaged alerts following a SOC L1 analyst workflow
+- Documented findings in a structured incident report
+
+---
+
+### 🏅 Certifications & Labs
+
+- 🎓 **CNSP**: Certified Network Security Practitioner, The SecOps Group
+- 🎓 **Postman API Student Expert**: [View badge](https://api.badgr.io/public/assertions/WUBMiU9pSrWvF4UcZZ6bng)
+- 🧪 **TryHackMe badges:**
+  [OWASP Top 10](https://tryhackme.com/little.jerry/badges/owasp-10) ·
+  [Hash Cracker](https://tryhackme.com/little.jerry/badges/hash-cracker) ·
+  [Intro to Pentesting](https://tryhackme.com/little.jerry/badges/intro-to-pentesting) ·
+  [Burped](https://tryhackme.com/little.jerry/badges/burped)
+
+---
+
+### ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Response Manipulation for Account Takeover](https://medium.com/@sdarmwal17/exploiting-response-manipulation-for-account-takeover-b19ce1494109?source=rss-81e70cef57ab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shubhamdarmwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdarmwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdarmwal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhamsinghdarmwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsinghdarmwal" height="30" width="40" /></a>
-<a href="https://medium.com/@sdarmwal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sdarmwal17" height="30" width="40" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamdarmwal/shubhamdarmwal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamdarmwal/shubhamdarmwal/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/shubhamdarmwal/shubhamdarmwal/output/github-snake.svg" />
+  </picture>
 </p>
