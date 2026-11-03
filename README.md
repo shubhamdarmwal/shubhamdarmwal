@@ -21,6 +21,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shubhamdarmwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdarmwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdarmwal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhamsinghdarmwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsinghdarmwal" height="30" width="40" /></a>
