@@ -75,7 +75,7 @@ Built a fully functional Security Operations home lab by deploying **Wazuh SIEM*
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubhamdarmwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="   https://streak-stats.demolab.com/?user=shubhamdarmwal&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
